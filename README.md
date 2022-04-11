@@ -81,10 +81,10 @@ java -jar RoadFinder-1.0.jar
   ![image](https://user-images.githubusercontent.com/18624766/160565989-170f5edc-c078-457d-bbf0-075cc4460ad4.png)
 
 ## :man_in_tuxedo: Authors
-- [Always0ne](https://github.com/manyson) - **junghyun Kim** - <artjung77@gmail.com>
+- [iu00](https://github.com/manyson) - **junghyun Kim** - <artjung77@gmail.com>
 
 <!--
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/iu00/readmeTemplate/contributors)
 who participated in this project.
 
 ## Used or Referenced Projects
@@ -97,7 +97,7 @@ who participated in this project.
 ```
 MIT License
 
-Copyright (c) 2020 always0ne
+Copyright (c) 2020 iu00
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
