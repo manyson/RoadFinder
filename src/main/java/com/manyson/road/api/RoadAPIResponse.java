@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * 도로명 주소 API의 응답 데이터를 위한 클래스
+ * 도로명 주소 API 의 응답 데이터를 위한 클래스
  *
  * @author  김정현
  * @version 1.0

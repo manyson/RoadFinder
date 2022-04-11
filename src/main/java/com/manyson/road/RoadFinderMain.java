@@ -1,5 +1,7 @@
 package com.manyson.road;
 
+import com.manyson.road.processor.RoadProcessor;
+
 /**
  * 도로명을 추출하는 프로그램의 메인 클래스
  *
@@ -13,5 +15,7 @@ public class RoadFinderMain {
      * @param args 프로그램 실행 argument
      */
     public static void main(String[] args) {
+        RoadProcessor roadProcessor = new RoadProcessor();
+        roadProcessor.process();
     }
 }
